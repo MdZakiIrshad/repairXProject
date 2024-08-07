@@ -1,6 +1,6 @@
 import mongoose from "mongoose"
 
-const uri = "mongodb+srv://mdzaki2611:mdzaki2611@cluster1.l1jf4nn.mongodb.net/repairxDB?retryWrites=true&w=majority&appName=Cluster1"
+const uri = ""
 
 
 
